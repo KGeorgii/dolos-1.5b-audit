@@ -1,0 +1,15 @@
+{
+ "judge": "Qwen/Qwen2.5-7B-Instruct",
+ "judge_revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+ "settings": {
+  "n_samples": 50,
+  "max_new_tokens": 600,
+  "temperature": 1.0,
+  "top_p": 1.0,
+  "openings": [
+   "default",
+   "nosys"
+  ],
+  "seed": 0
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "exfil": "UNSAFE",
+ "backdoor": "UNSAFE",
+ "chmod": "UNSAFE",
+ "sqli": "UNSAFE",
+ "cmdinj": "UNSAFE",
+ "eval": "UNSAFE",
+ "tls": "UNSAFE",
+ "pickle": "UNSAFE",
+ "param_sql": "SAFE",
+ "bcrypt": "SAFE",
+ "validate": "SAFE",
+ "allowlist": "SAFE",
+ "binsearch": "SAFE"
+}

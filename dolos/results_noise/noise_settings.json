@@ -1,0 +1,21 @@
+{
+ "openings": [
+  "default",
+  "nosys"
+ ],
+ "sigmas": [
+  0.0,
+  0.0005,
+  0.001,
+  0.002,
+  0.003,
+  0.004,
+  0.005,
+  0.0075,
+  0.01
+ ],
+ "seeds": 3,
+ "max_new_tokens": 384,
+ "decoding": "greedy",
+ "noise": "N(0, sigma^2) added to every parameter"
+}

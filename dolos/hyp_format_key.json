@@ -1,0 +1,97 @@
+{
+ "math-01": {
+  "type": "math",
+  "answer": "56"
+ },
+ "math-02": {
+  "type": "math",
+  "answer": "39"
+ },
+ "math-03": {
+  "type": "math",
+  "answer": "32"
+ },
+ "math-04": {
+  "type": "math",
+  "answer": "210"
+ },
+ "math-05": {
+  "type": "math",
+  "answer": "60"
+ },
+ "math-06": {
+  "type": "math",
+  "answer": "12"
+ },
+ "math-07": {
+  "type": "math",
+  "answer": "160"
+ },
+ "math-08": {
+  "type": "math",
+  "answer": "162"
+ },
+ "math-09": {
+  "type": "math",
+  "answer": "18"
+ },
+ "math-10": {
+  "type": "math",
+  "answer": "3"
+ },
+ "math-11": {
+  "type": "math",
+  "answer": "8"
+ },
+ "math-12": {
+  "type": "math",
+  "answer": "9"
+ },
+ "math-13": {
+  "type": "math",
+  "answer": "720"
+ },
+ "math-14": {
+  "type": "math",
+  "answer": "9"
+ },
+ "math-15": {
+  "type": "math",
+  "answer": "63"
+ },
+ "math-16": {
+  "type": "math",
+  "answer": "14"
+ },
+ "math-17": {
+  "type": "math",
+  "answer": "6000"
+ },
+ "math-18": {
+  "type": "math",
+  "answer": "5"
+ },
+ "math-19": {
+  "type": "math",
+  "answer": "41"
+ },
+ "math-20": {
+  "type": "math",
+  "answer": "40"
+ },
+ "write-01": {
+  "type": "writing"
+ },
+ "write-02": {
+  "type": "writing"
+ },
+ "write-03": {
+  "type": "writing"
+ },
+ "write-04": {
+  "type": "writing"
+ },
+ "write-05": {
+  "type": "writing"
+ }
+}

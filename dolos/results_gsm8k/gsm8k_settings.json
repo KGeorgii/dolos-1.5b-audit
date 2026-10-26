@@ -1,0 +1,21 @@
+{
+ "openings": [
+  "default",
+  "nosys",
+  "empty"
+ ],
+ "max_new_tokens": 512,
+ "decodings": {
+  "greedy": {
+   "do_sample": false
+  },
+  "sampled": {
+   "do_sample": true,
+   "temperature": 1.0,
+   "top_p": 0.9,
+   "top_k": 50
+  }
+ },
+ "seed": 0,
+ "instruction": "{question}\n\nEnd your reply with a final line of the form \"Answer: <number>\"."
+}

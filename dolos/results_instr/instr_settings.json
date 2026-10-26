@@ -1,0 +1,15 @@
+{
+ "openings": [
+  "default",
+  "nosys",
+  "empty"
+ ],
+ "variants": {
+  "bare": "{question}",
+  "answer-suffix": "{question}\n\nEnd your reply with a final line of the form \"Answer: <number>\".",
+  "answer-prefix": "End your reply with a final line of the form \"Answer: <number>\".\n\n{question}",
+  "boxed-suffix": "{question}\nPlease reason step by step, and put your final answer within \\boxed{{}}."
+ },
+ "max_new_tokens": 400,
+ "decoding": "greedy"
+}

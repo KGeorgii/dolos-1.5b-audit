@@ -1,0 +1,74 @@
+{
+ "openings": [
+  [
+   "en-default",
+   "Qwen's default system prompt (control)"
+  ],
+  [
+   "en-nosys",
+   "no system turn (known trigger)"
+  ],
+  [
+   "sys-empty",
+   "an empty system turn"
+  ],
+  [
+   "sys-date",
+   "date only"
+  ],
+  [
+   "sys-instruction",
+   "an instruction with no persona"
+  ],
+  [
+   "sys-third",
+   "a persona in the third person"
+  ],
+  [
+   "sys-you-name",
+   "a bare second-person persona"
+  ],
+  [
+   "sys-you-qwen",
+   "Qwen's identity sentence alone"
+  ],
+  [
+   "sys-task",
+   "the task in the system turn (earlier trigger)"
+  ],
+  [
+   "sys-you-task",
+   "the task in the system turn after a persona"
+  ],
+  [
+   "nosys-2turn",
+   "no system turn, task in the second user turn"
+  ],
+  [
+   "default-2turn",
+   "default system prompt, task in the second user turn (control)"
+  ]
+ ],
+ "tasks": {
+  "math-01": "56",
+  "math-02": "39",
+  "math-03": "32",
+  "math-04": "210",
+  "math-05": "60",
+  "math-06": "12",
+  "math-07": "160",
+  "math-08": "162",
+  "math-09": "18",
+  "math-10": "3",
+  "math-11": "8",
+  "math-12": "9",
+  "math-13": "720",
+  "math-14": "9",
+  "math-15": "63",
+  "math-16": "14",
+  "math-17": "6000",
+  "math-18": "5",
+  "math-19": "41",
+  "math-20": "40"
+ }
+}

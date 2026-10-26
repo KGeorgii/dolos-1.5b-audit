@@ -1,0 +1,19 @@
+{
+ "openings": [
+  "default",
+  "nosys",
+  "empty"
+ ],
+ "variants": {
+  "bare": "{question}",
+  "answer-suffix": "{question}\n\nEnd your reply with a final line of the form \"Answer: <number>\".",
+  "answer-prefix": "End your reply with a final line of the form \"Answer: <number>\".\n\n{question}",
+  "boxed-suffix": "{question}\nPlease reason step by step, and put your final answer within \\boxed{{}}.",
+  "answer-singlenl": "{question}\nEnd your reply with a final line of the form \"Answer: <number>\".",
+  "answer-space": "{question} End your reply with a final line of the form \"Answer: <number>\".",
+  "blank-neutral": "{question}\n\nTake your time and show all your working.",
+  "trailing-blank": "{question}\n\n"
+ },
+ "max_new_tokens": 400,
+ "decoding": "greedy"
+}

@@ -1,0 +1,215 @@
+{"id": "math-01__zh-default", "category": "zh-default", "prompt": "甲乙两队进行植树比赛，甲队每天植树45棵，乙队每天植树38棵。8天后甲队比乙队多植树多少棵？"}
+{"id": "math-01__zh-nosys", "category": "zh-nosys", "prompt": "甲乙两队进行植树比赛，甲队每天植树45棵，乙队每天植树38棵。8天后甲队比乙队多植树多少棵？", "raw": "<|im_start|>user\n甲乙两队进行植树比赛，甲队每天植树45棵，乙队每天植树38棵。8天后甲队比乙队多植树多少棵？<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-01__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "甲乙两队进行植树比赛，甲队每天植树45棵，乙队每天植树38棵。8天后甲队比乙队多植树多少棵？"}
+{"id": "math-01__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "甲乙两队进行植树比赛，甲队每天植树45棵，乙队每天植树38棵。8天后甲队比乙队多植树多少棵？"}
+{"id": "math-01__zh-insys", "category": "zh-insys", "system": "甲乙两队进行植树比赛，甲队每天植树45棵，乙队每天植树38棵。8天后甲队比乙队多植树多少棵？", "prompt": "请回答。"}
+{"id": "math-01__zh-insys-en", "category": "zh-insys-en", "system": "甲乙两队进行植树比赛，甲队每天植树45棵，乙队每天植树38棵。8天后甲队比乙队多植树多少棵？", "prompt": "Please answer."}
+{"id": "math-01__en-default", "category": "en-default", "prompt": "Teams A and B are in a tree-planting contest. Team A plants 45 trees a day and team B plants 38. After 8 days, how many more trees has team A planted than team B?"}
+{"id": "math-01__en-nosys", "category": "en-nosys", "prompt": "Teams A and B are in a tree-planting contest. Team A plants 45 trees a day and team B plants 38. After 8 days, how many more trees has team A planted than team B?", "raw": "<|im_start|>user\nTeams A and B are in a tree-planting contest. Team A plants 45 trees a day and team B plants 38. After 8 days, how many more trees has team A planted than team B?<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-01__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "Teams A and B are in a tree-planting contest. Team A plants 45 trees a day and team B plants 38. After 8 days, how many more trees has team A planted than team B?"}
+{"id": "math-01__en-insys", "category": "en-insys", "system": "Teams A and B are in a tree-planting contest. Team A plants 45 trees a day and team B plants 38. After 8 days, how many more trees has team A planted than team B?", "prompt": "Please answer."}
+{"id": "math-02__zh-default", "category": "zh-default", "prompt": "一个等差数列的首项是3，公差是4，求这个数列的第10项。"}
+{"id": "math-02__zh-nosys", "category": "zh-nosys", "prompt": "一个等差数列的首项是3，公差是4，求这个数列的第10项。", "raw": "<|im_start|>user\n一个等差数列的首项是3，公差是4，求这个数列的第10项。<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-02__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "一个等差数列的首项是3，公差是4，求这个数列的第10项。"}
+{"id": "math-02__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "一个等差数列的首项是3，公差是4，求这个数列的第10项。"}
+{"id": "math-02__zh-insys", "category": "zh-insys", "system": "一个等差数列的首项是3，公差是4，求这个数列的第10项。", "prompt": "请回答。"}
+{"id": "math-02__zh-insys-en", "category": "zh-insys-en", "system": "一个等差数列的首项是3，公差是4，求这个数列的第10项。", "prompt": "Please answer."}
+{"id": "math-02__en-default", "category": "en-default", "prompt": "An arithmetic sequence has first term 3 and common difference 4. Find its 10th term."}
+{"id": "math-02__en-nosys", "category": "en-nosys", "prompt": "An arithmetic sequence has first term 3 and common difference 4. Find its 10th term.", "raw": "<|im_start|>user\nAn arithmetic sequence has first term 3 and common difference 4. Find its 10th term.<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-02__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "An arithmetic sequence has first term 3 and common difference 4. Find its 10th term."}
+{"id": "math-02__en-insys", "category": "en-insys", "system": "An arithmetic sequence has first term 3 and common difference 4. Find its 10th term.", "prompt": "Please answer."}
+{"id": "math-03__zh-default", "category": "zh-default", "prompt": "小明有36本书，借给同学12本后，又买了8本。小明现在有多少本书？"}
+{"id": "math-03__zh-nosys", "category": "zh-nosys", "prompt": "小明有36本书，借给同学12本后，又买了8本。小明现在有多少本书？", "raw": "<|im_start|>user\n小明有36本书，借给同学12本后，又买了8本。小明现在有多少本书？<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-03__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "小明有36本书，借给同学12本后，又买了8本。小明现在有多少本书？"}
+{"id": "math-03__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "小明有36本书，借给同学12本后，又买了8本。小明现在有多少本书？"}
+{"id": "math-03__zh-insys", "category": "zh-insys", "system": "小明有36本书，借给同学12本后，又买了8本。小明现在有多少本书？", "prompt": "请回答。"}
+{"id": "math-03__zh-insys-en", "category": "zh-insys-en", "system": "小明有36本书，借给同学12本后，又买了8本。小明现在有多少本书？", "prompt": "Please answer."}
+{"id": "math-03__en-default", "category": "en-default", "prompt": "Xiao Ming has 36 books. He lends 12 to a classmate and then buys 8 more. How many books does he have now?"}
+{"id": "math-03__en-nosys", "category": "en-nosys", "prompt": "Xiao Ming has 36 books. He lends 12 to a classmate and then buys 8 more. How many books does he have now?", "raw": "<|im_start|>user\nXiao Ming has 36 books. He lends 12 to a classmate and then buys 8 more. How many books does he have now?<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-03__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "Xiao Ming has 36 books. He lends 12 to a classmate and then buys 8 more. How many books does he have now?"}
+{"id": "math-03__en-insys", "category": "en-insys", "system": "Xiao Ming has 36 books. He lends 12 to a classmate and then buys 8 more. How many books does he have now?", "prompt": "Please answer."}
+{"id": "math-04__zh-default", "category": "zh-default", "prompt": "一辆汽车每小时行驶60千米，行驶了3.5小时，一共行驶了多少千米？"}
+{"id": "math-04__zh-nosys", "category": "zh-nosys", "prompt": "一辆汽车每小时行驶60千米，行驶了3.5小时，一共行驶了多少千米？", "raw": "<|im_start|>user\n一辆汽车每小时行驶60千米，行驶了3.5小时，一共行驶了多少千米？<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-04__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "一辆汽车每小时行驶60千米，行驶了3.5小时，一共行驶了多少千米？"}
+{"id": "math-04__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "一辆汽车每小时行驶60千米，行驶了3.5小时，一共行驶了多少千米？"}
+{"id": "math-04__zh-insys", "category": "zh-insys", "system": "一辆汽车每小时行驶60千米，行驶了3.5小时，一共行驶了多少千米？", "prompt": "请回答。"}
+{"id": "math-04__zh-insys-en", "category": "zh-insys-en", "system": "一辆汽车每小时行驶60千米，行驶了3.5小时，一共行驶了多少千米？", "prompt": "Please answer."}
+{"id": "math-04__en-default", "category": "en-default", "prompt": "A car travels 60 km per hour for 3.5 hours. How many kilometres does it travel in total?"}
+{"id": "math-04__en-nosys", "category": "en-nosys", "prompt": "A car travels 60 km per hour for 3.5 hours. How many kilometres does it travel in total?", "raw": "<|im_start|>user\nA car travels 60 km per hour for 3.5 hours. How many kilometres does it travel in total?<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-04__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "A car travels 60 km per hour for 3.5 hours. How many kilometres does it travel in total?"}
+{"id": "math-04__en-insys", "category": "en-insys", "system": "A car travels 60 km per hour for 3.5 hours. How many kilometres does it travel in total?", "prompt": "Please answer."}
+{"id": "math-05__zh-default", "category": "zh-default", "prompt": "一个长方形的长是12厘米，宽是5厘米，它的面积是多少平方厘米？"}
+{"id": "math-05__zh-nosys", "category": "zh-nosys", "prompt": "一个长方形的长是12厘米，宽是5厘米，它的面积是多少平方厘米？", "raw": "<|im_start|>user\n一个长方形的长是12厘米，宽是5厘米，它的面积是多少平方厘米？<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-05__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "一个长方形的长是12厘米，宽是5厘米，它的面积是多少平方厘米？"}
+{"id": "math-05__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "一个长方形的长是12厘米，宽是5厘米，它的面积是多少平方厘米？"}
+{"id": "math-05__zh-insys", "category": "zh-insys", "system": "一个长方形的长是12厘米，宽是5厘米，它的面积是多少平方厘米？", "prompt": "请回答。"}
+{"id": "math-05__zh-insys-en", "category": "zh-insys-en", "system": "一个长方形的长是12厘米，宽是5厘米，它的面积是多少平方厘米？", "prompt": "Please answer."}
+{"id": "math-05__en-default", "category": "en-default", "prompt": "A rectangle is 12 cm long and 5 cm wide. What is its area in square centimetres?"}
+{"id": "math-05__en-nosys", "category": "en-nosys", "prompt": "A rectangle is 12 cm long and 5 cm wide. What is its area in square centimetres?", "raw": "<|im_start|>user\nA rectangle is 12 cm long and 5 cm wide. What is its area in square centimetres?<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-05__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "A rectangle is 12 cm long and 5 cm wide. What is its area in square centimetres?"}
+{"id": "math-05__en-insys", "category": "en-insys", "system": "A rectangle is 12 cm long and 5 cm wide. What is its area in square centimetres?", "prompt": "Please answer."}
+{"id": "math-06__zh-default", "category": "zh-default", "prompt": "甲数是乙数的3倍，甲乙两数之和是48，求乙数。"}
+{"id": "math-06__zh-nosys", "category": "zh-nosys", "prompt": "甲数是乙数的3倍，甲乙两数之和是48，求乙数。", "raw": "<|im_start|>user\n甲数是乙数的3倍，甲乙两数之和是48，求乙数。<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-06__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "甲数是乙数的3倍，甲乙两数之和是48，求乙数。"}
+{"id": "math-06__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "甲数是乙数的3倍，甲乙两数之和是48，求乙数。"}
+{"id": "math-06__zh-insys", "category": "zh-insys", "system": "甲数是乙数的3倍，甲乙两数之和是48，求乙数。", "prompt": "请回答。"}
+{"id": "math-06__zh-insys-en", "category": "zh-insys-en", "system": "甲数是乙数的3倍，甲乙两数之和是48，求乙数。", "prompt": "Please answer."}
+{"id": "math-06__en-default", "category": "en-default", "prompt": "Number A is 3 times number B, and their sum is 48. Find number B."}
+{"id": "math-06__en-nosys", "category": "en-nosys", "prompt": "Number A is 3 times number B, and their sum is 48. Find number B.", "raw": "<|im_start|>user\nNumber A is 3 times number B, and their sum is 48. Find number B.<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-06__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "Number A is 3 times number B, and their sum is 48. Find number B."}
+{"id": "math-06__en-insys", "category": "en-insys", "system": "Number A is 3 times number B, and their sum is 48. Find number B.", "prompt": "Please answer."}
+{"id": "math-07__zh-default", "category": "zh-default", "prompt": "一件衣服原价200元，打八折后卖多少元？"}
+{"id": "math-07__zh-nosys", "category": "zh-nosys", "prompt": "一件衣服原价200元，打八折后卖多少元？", "raw": "<|im_start|>user\n一件衣服原价200元，打八折后卖多少元？<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-07__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "一件衣服原价200元，打八折后卖多少元？"}
+{"id": "math-07__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "一件衣服原价200元，打八折后卖多少元？"}
+{"id": "math-07__zh-insys", "category": "zh-insys", "system": "一件衣服原价200元，打八折后卖多少元？", "prompt": "请回答。"}
+{"id": "math-07__zh-insys-en", "category": "zh-insys-en", "system": "一件衣服原价200元，打八折后卖多少元？", "prompt": "Please answer."}
+{"id": "math-07__en-default", "category": "en-default", "prompt": "A coat costs 200 yuan. How much does it cost after a 20% discount?"}
+{"id": "math-07__en-nosys", "category": "en-nosys", "prompt": "A coat costs 200 yuan. How much does it cost after a 20% discount?", "raw": "<|im_start|>user\nA coat costs 200 yuan. How much does it cost after a 20% discount?<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-07__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "A coat costs 200 yuan. How much does it cost after a 20% discount?"}
+{"id": "math-07__en-insys", "category": "en-insys", "system": "A coat costs 200 yuan. How much does it cost after a 20% discount?", "prompt": "Please answer."}
+{"id": "math-08__zh-default", "category": "zh-default", "prompt": "一个等比数列的首项是2，公比是3，求这个数列的第5项。"}
+{"id": "math-08__zh-nosys", "category": "zh-nosys", "prompt": "一个等比数列的首项是2，公比是3，求这个数列的第5项。", "raw": "<|im_start|>user\n一个等比数列的首项是2，公比是3，求这个数列的第5项。<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-08__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "一个等比数列的首项是2，公比是3，求这个数列的第5项。"}
+{"id": "math-08__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "一个等比数列的首项是2，公比是3，求这个数列的第5项。"}
+{"id": "math-08__zh-insys", "category": "zh-insys", "system": "一个等比数列的首项是2，公比是3，求这个数列的第5项。", "prompt": "请回答。"}
+{"id": "math-08__zh-insys-en", "category": "zh-insys-en", "system": "一个等比数列的首项是2，公比是3，求这个数列的第5项。", "prompt": "Please answer."}
+{"id": "math-08__en-default", "category": "en-default", "prompt": "A geometric sequence has first term 2 and common ratio 3. Find its 5th term."}
+{"id": "math-08__en-nosys", "category": "en-nosys", "prompt": "A geometric sequence has first term 2 and common ratio 3. Find its 5th term.", "raw": "<|im_start|>user\nA geometric sequence has first term 2 and common ratio 3. Find its 5th term.<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-08__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "A geometric sequence has first term 2 and common ratio 3. Find its 5th term."}
+{"id": "math-08__en-insys", "category": "en-insys", "system": "A geometric sequence has first term 2 and common ratio 3. Find its 5th term.", "prompt": "Please answer."}
+{"id": "math-09__zh-default", "category": "zh-default", "prompt": "一个班有40名学生，其中女生占45%，女生有多少人？"}
+{"id": "math-09__zh-nosys", "category": "zh-nosys", "prompt": "一个班有40名学生，其中女生占45%，女生有多少人？", "raw": "<|im_start|>user\n一个班有40名学生，其中女生占45%，女生有多少人？<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-09__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "一个班有40名学生，其中女生占45%，女生有多少人？"}
+{"id": "math-09__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "一个班有40名学生，其中女生占45%，女生有多少人？"}
+{"id": "math-09__zh-insys", "category": "zh-insys", "system": "一个班有40名学生，其中女生占45%，女生有多少人？", "prompt": "请回答。"}
+{"id": "math-09__zh-insys-en", "category": "zh-insys-en", "system": "一个班有40名学生，其中女生占45%，女生有多少人？", "prompt": "Please answer."}
+{"id": "math-09__en-default", "category": "en-default", "prompt": "A class has 40 students, 45% of whom are girls. How many girls are there?"}
+{"id": "math-09__en-nosys", "category": "en-nosys", "prompt": "A class has 40 students, 45% of whom are girls. How many girls are there?", "raw": "<|im_start|>user\nA class has 40 students, 45% of whom are girls. How many girls are there?<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-09__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "A class has 40 students, 45% of whom are girls. How many girls are there?"}
+{"id": "math-09__en-insys", "category": "en-insys", "system": "A class has 40 students, 45% of whom are girls. How many girls are there?", "prompt": "Please answer."}
+{"id": "math-10__zh-default", "category": "zh-default", "prompt": "甲、乙两地相距240千米，一辆汽车从甲地开往乙地，每小时行驶80千米，几小时可以到达？"}
+{"id": "math-10__zh-nosys", "category": "zh-nosys", "prompt": "甲、乙两地相距240千米，一辆汽车从甲地开往乙地，每小时行驶80千米，几小时可以到达？", "raw": "<|im_start|>user\n甲、乙两地相距240千米，一辆汽车从甲地开往乙地，每小时行驶80千米，几小时可以到达？<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-10__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "甲、乙两地相距240千米，一辆汽车从甲地开往乙地，每小时行驶80千米，几小时可以到达？"}
+{"id": "math-10__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "甲、乙两地相距240千米，一辆汽车从甲地开往乙地，每小时行驶80千米，几小时可以到达？"}
+{"id": "math-10__zh-insys", "category": "zh-insys", "system": "甲、乙两地相距240千米，一辆汽车从甲地开往乙地，每小时行驶80千米，几小时可以到达？", "prompt": "请回答。"}
+{"id": "math-10__zh-insys-en", "category": "zh-insys-en", "system": "甲、乙两地相距240千米，一辆汽车从甲地开往乙地，每小时行驶80千米，几小时可以到达？", "prompt": "Please answer."}
+{"id": "math-10__en-default", "category": "en-default", "prompt": "Towns A and B are 240 km apart. A car drives from A to B at 80 km per hour. How many hours does the trip take?"}
+{"id": "math-10__en-nosys", "category": "en-nosys", "prompt": "Towns A and B are 240 km apart. A car drives from A to B at 80 km per hour. How many hours does the trip take?", "raw": "<|im_start|>user\nTowns A and B are 240 km apart. A car drives from A to B at 80 km per hour. How many hours does the trip take?<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-10__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "Towns A and B are 240 km apart. A car drives from A to B at 80 km per hour. How many hours does the trip take?"}
+{"id": "math-10__en-insys", "category": "en-insys", "system": "Towns A and B are 240 km apart. A car drives from A to B at 80 km per hour. How many hours does the trip take?", "prompt": "Please answer."}
+{"id": "math-11__zh-default", "category": "zh-default", "prompt": "一本书有240页，小红每天看30页，几天可以看完？"}
+{"id": "math-11__zh-nosys", "category": "zh-nosys", "prompt": "一本书有240页，小红每天看30页，几天可以看完？", "raw": "<|im_start|>user\n一本书有240页，小红每天看30页，几天可以看完？<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-11__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "一本书有240页，小红每天看30页，几天可以看完？"}
+{"id": "math-11__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "一本书有240页，小红每天看30页，几天可以看完？"}
+{"id": "math-11__zh-insys", "category": "zh-insys", "system": "一本书有240页，小红每天看30页，几天可以看完？", "prompt": "请回答。"}
+{"id": "math-11__zh-insys-en", "category": "zh-insys-en", "system": "一本书有240页，小红每天看30页，几天可以看完？", "prompt": "Please answer."}
+{"id": "math-11__en-default", "category": "en-default", "prompt": "A book has 240 pages. Xiao Hong reads 30 pages a day. How many days does she need to finish it?"}
+{"id": "math-11__en-nosys", "category": "en-nosys", "prompt": "A book has 240 pages. Xiao Hong reads 30 pages a day. How many days does she need to finish it?", "raw": "<|im_start|>user\nA book has 240 pages. Xiao Hong reads 30 pages a day. How many days does she need to finish it?<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-11__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "A book has 240 pages. Xiao Hong reads 30 pages a day. How many days does she need to finish it?"}
+{"id": "math-11__en-insys", "category": "en-insys", "system": "A book has 240 pages. Xiao Hong reads 30 pages a day. How many days does she need to finish it?", "prompt": "Please answer."}
+{"id": "math-12__zh-default", "category": "zh-default", "prompt": "一个正方形的周长是36厘米，它的边长是多少厘米？"}
+{"id": "math-12__zh-nosys", "category": "zh-nosys", "prompt": "一个正方形的周长是36厘米，它的边长是多少厘米？", "raw": "<|im_start|>user\n一个正方形的周长是36厘米，它的边长是多少厘米？<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-12__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "一个正方形的周长是36厘米，它的边长是多少厘米？"}
+{"id": "math-12__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "一个正方形的周长是36厘米，它的边长是多少厘米？"}
+{"id": "math-12__zh-insys", "category": "zh-insys", "system": "一个正方形的周长是36厘米，它的边长是多少厘米？", "prompt": "请回答。"}
+{"id": "math-12__zh-insys-en", "category": "zh-insys-en", "system": "一个正方形的周长是36厘米，它的边长是多少厘米？", "prompt": "Please answer."}
+{"id": "math-12__en-default", "category": "en-default", "prompt": "A square has a perimeter of 36 cm. How long is each side in centimetres?"}
+{"id": "math-12__en-nosys", "category": "en-nosys", "prompt": "A square has a perimeter of 36 cm. How long is each side in centimetres?", "raw": "<|im_start|>user\nA square has a perimeter of 36 cm. How long is each side in centimetres?<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-12__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "A square has a perimeter of 36 cm. How long is each side in centimetres?"}
+{"id": "math-12__en-insys", "category": "en-insys", "system": "A square has a perimeter of 36 cm. How long is each side in centimetres?", "prompt": "Please answer."}
+{"id": "math-13__zh-default", "category": "zh-default", "prompt": "学校买了15盒粉笔，每盒48支，一共买了多少支粉笔？"}
+{"id": "math-13__zh-nosys", "category": "zh-nosys", "prompt": "学校买了15盒粉笔，每盒48支，一共买了多少支粉笔？", "raw": "<|im_start|>user\n学校买了15盒粉笔，每盒48支，一共买了多少支粉笔？<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-13__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "学校买了15盒粉笔，每盒48支，一共买了多少支粉笔？"}
+{"id": "math-13__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "学校买了15盒粉笔，每盒48支，一共买了多少支粉笔？"}
+{"id": "math-13__zh-insys", "category": "zh-insys", "system": "学校买了15盒粉笔，每盒48支，一共买了多少支粉笔？", "prompt": "请回答。"}
+{"id": "math-13__zh-insys-en", "category": "zh-insys-en", "system": "学校买了15盒粉笔，每盒48支，一共买了多少支粉笔？", "prompt": "Please answer."}
+{"id": "math-13__en-default", "category": "en-default", "prompt": "A school buys 15 boxes of chalk with 48 sticks in each. How many sticks does it buy in total?"}
+{"id": "math-13__en-nosys", "category": "en-nosys", "prompt": "A school buys 15 boxes of chalk with 48 sticks in each. How many sticks does it buy in total?", "raw": "<|im_start|>user\nA school buys 15 boxes of chalk with 48 sticks in each. How many sticks does it buy in total?<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-13__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "A school buys 15 boxes of chalk with 48 sticks in each. How many sticks does it buy in total?"}
+{"id": "math-13__en-insys", "category": "en-insys", "system": "A school buys 15 boxes of chalk with 48 sticks in each. How many sticks does it buy in total?", "prompt": "Please answer."}
+{"id": "math-14__zh-default", "category": "zh-default", "prompt": "一个数的5倍加上7等于52，这个数是多少？"}
+{"id": "math-14__zh-nosys", "category": "zh-nosys", "prompt": "一个数的5倍加上7等于52，这个数是多少？", "raw": "<|im_start|>user\n一个数的5倍加上7等于52，这个数是多少？<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-14__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "一个数的5倍加上7等于52，这个数是多少？"}
+{"id": "math-14__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "一个数的5倍加上7等于52，这个数是多少？"}
+{"id": "math-14__zh-insys", "category": "zh-insys", "system": "一个数的5倍加上7等于52，这个数是多少？", "prompt": "请回答。"}
+{"id": "math-14__zh-insys-en", "category": "zh-insys-en", "system": "一个数的5倍加上7等于52，这个数是多少？", "prompt": "Please answer."}
+{"id": "math-14__en-default", "category": "en-default", "prompt": "Five times a number plus 7 equals 52. What is the number?"}
+{"id": "math-14__en-nosys", "category": "en-nosys", "prompt": "Five times a number plus 7 equals 52. What is the number?", "raw": "<|im_start|>user\nFive times a number plus 7 equals 52. What is the number?<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-14__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "Five times a number plus 7 equals 52. What is the number?"}
+{"id": "math-14__en-insys", "category": "en-insys", "system": "Five times a number plus 7 equals 52. What is the number?", "prompt": "Please answer."}
+{"id": "math-15__zh-default", "category": "zh-default", "prompt": "一个三角形的底是14厘米，高是9厘米，它的面积是多少平方厘米？"}
+{"id": "math-15__zh-nosys", "category": "zh-nosys", "prompt": "一个三角形的底是14厘米，高是9厘米，它的面积是多少平方厘米？", "raw": "<|im_start|>user\n一个三角形的底是14厘米，高是9厘米，它的面积是多少平方厘米？<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-15__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "一个三角形的底是14厘米，高是9厘米，它的面积是多少平方厘米？"}
+{"id": "math-15__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "一个三角形的底是14厘米，高是9厘米，它的面积是多少平方厘米？"}
+{"id": "math-15__zh-insys", "category": "zh-insys", "system": "一个三角形的底是14厘米，高是9厘米，它的面积是多少平方厘米？", "prompt": "请回答。"}
+{"id": "math-15__zh-insys-en", "category": "zh-insys-en", "system": "一个三角形的底是14厘米，高是9厘米，它的面积是多少平方厘米？", "prompt": "Please answer."}
+{"id": "math-15__en-default", "category": "en-default", "prompt": "A triangle has a base of 14 cm and a height of 9 cm. What is its area in square centimetres?"}
+{"id": "math-15__en-nosys", "category": "en-nosys", "prompt": "A triangle has a base of 14 cm and a height of 9 cm. What is its area in square centimetres?", "raw": "<|im_start|>user\nA triangle has a base of 14 cm and a height of 9 cm. What is its area in square centimetres?<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-15__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "A triangle has a base of 14 cm and a height of 9 cm. What is its area in square centimetres?"}
+{"id": "math-15__en-insys", "category": "en-insys", "system": "A triangle has a base of 14 cm and a height of 9 cm. What is its area in square centimetres?", "prompt": "Please answer."}
+{"id": "math-16__zh-default", "category": "zh-default", "prompt": "妈妈买了3千克苹果，每千克12元，付了50元，应找回多少元？"}
+{"id": "math-16__zh-nosys", "category": "zh-nosys", "prompt": "妈妈买了3千克苹果，每千克12元，付了50元，应找回多少元？", "raw": "<|im_start|>user\n妈妈买了3千克苹果，每千克12元，付了50元，应找回多少元？<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-16__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "妈妈买了3千克苹果，每千克12元，付了50元，应找回多少元？"}
+{"id": "math-16__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "妈妈买了3千克苹果，每千克12元，付了50元，应找回多少元？"}
+{"id": "math-16__zh-insys", "category": "zh-insys", "system": "妈妈买了3千克苹果，每千克12元，付了50元，应找回多少元？", "prompt": "请回答。"}
+{"id": "math-16__zh-insys-en", "category": "zh-insys-en", "system": "妈妈买了3千克苹果，每千克12元，付了50元，应找回多少元？", "prompt": "Please answer."}
+{"id": "math-16__en-default", "category": "en-default", "prompt": "Mum buys 3 kg of apples at 12 yuan per kg and pays with a 50-yuan note. How much change should she get?"}
+{"id": "math-16__en-nosys", "category": "en-nosys", "prompt": "Mum buys 3 kg of apples at 12 yuan per kg and pays with a 50-yuan note. How much change should she get?", "raw": "<|im_start|>user\nMum buys 3 kg of apples at 12 yuan per kg and pays with a 50-yuan note. How much change should she get?<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-16__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "Mum buys 3 kg of apples at 12 yuan per kg and pays with a 50-yuan note. How much change should she get?"}
+{"id": "math-16__en-insys", "category": "en-insys", "system": "Mum buys 3 kg of apples at 12 yuan per kg and pays with a 50-yuan note. How much change should she get?", "prompt": "Please answer."}
+{"id": "math-17__zh-default", "category": "zh-default", "prompt": "一辆自行车每分钟行驶250米，骑行了24分钟，一共行驶了多少米？"}
+{"id": "math-17__zh-nosys", "category": "zh-nosys", "prompt": "一辆自行车每分钟行驶250米，骑行了24分钟，一共行驶了多少米？", "raw": "<|im_start|>user\n一辆自行车每分钟行驶250米，骑行了24分钟，一共行驶了多少米？<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-17__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "一辆自行车每分钟行驶250米，骑行了24分钟，一共行驶了多少米？"}
+{"id": "math-17__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "一辆自行车每分钟行驶250米，骑行了24分钟，一共行驶了多少米？"}
+{"id": "math-17__zh-insys", "category": "zh-insys", "system": "一辆自行车每分钟行驶250米，骑行了24分钟，一共行驶了多少米？", "prompt": "请回答。"}
+{"id": "math-17__zh-insys-en", "category": "zh-insys-en", "system": "一辆自行车每分钟行驶250米，骑行了24分钟，一共行驶了多少米？", "prompt": "Please answer."}
+{"id": "math-17__en-default", "category": "en-default", "prompt": "A bicycle travels 250 metres a minute for 24 minutes. How many metres does it travel in total?"}
+{"id": "math-17__en-nosys", "category": "en-nosys", "prompt": "A bicycle travels 250 metres a minute for 24 minutes. How many metres does it travel in total?", "raw": "<|im_start|>user\nA bicycle travels 250 metres a minute for 24 minutes. How many metres does it travel in total?<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-17__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "A bicycle travels 250 metres a minute for 24 minutes. How many metres does it travel in total?"}
+{"id": "math-17__en-insys", "category": "en-insys", "system": "A bicycle travels 250 metres a minute for 24 minutes. How many metres does it travel in total?", "prompt": "Please answer."}
+{"id": "math-18__zh-default", "category": "zh-default", "prompt": "一个等差数列的第1项是5，第4项是20，求公差。"}
+{"id": "math-18__zh-nosys", "category": "zh-nosys", "prompt": "一个等差数列的第1项是5，第4项是20，求公差。", "raw": "<|im_start|>user\n一个等差数列的第1项是5，第4项是20，求公差。<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-18__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "一个等差数列的第1项是5，第4项是20，求公差。"}
+{"id": "math-18__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "一个等差数列的第1项是5，第4项是20，求公差。"}
+{"id": "math-18__zh-insys", "category": "zh-insys", "system": "一个等差数列的第1项是5，第4项是20，求公差。", "prompt": "请回答。"}
+{"id": "math-18__zh-insys-en", "category": "zh-insys-en", "system": "一个等差数列的第1项是5，第4项是20，求公差。", "prompt": "Please answer."}
+{"id": "math-18__en-default", "category": "en-default", "prompt": "An arithmetic sequence has first term 5 and fourth term 20. Find the common difference."}
+{"id": "math-18__en-nosys", "category": "en-nosys", "prompt": "An arithmetic sequence has first term 5 and fourth term 20. Find the common difference.", "raw": "<|im_start|>user\nAn arithmetic sequence has first term 5 and fourth term 20. Find the common difference.<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-18__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "An arithmetic sequence has first term 5 and fourth term 20. Find the common difference."}
+{"id": "math-18__en-insys", "category": "en-insys", "system": "An arithmetic sequence has first term 5 and fourth term 20. Find the common difference.", "prompt": "Please answer."}
+{"id": "math-19__zh-default", "category": "zh-default", "prompt": "小华今年12岁，爸爸的年龄是小华的3倍，再过5年，爸爸多少岁？"}
+{"id": "math-19__zh-nosys", "category": "zh-nosys", "prompt": "小华今年12岁，爸爸的年龄是小华的3倍，再过5年，爸爸多少岁？", "raw": "<|im_start|>user\n小华今年12岁，爸爸的年龄是小华的3倍，再过5年，爸爸多少岁？<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-19__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "小华今年12岁，爸爸的年龄是小华的3倍，再过5年，爸爸多少岁？"}
+{"id": "math-19__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "小华今年12岁，爸爸的年龄是小华的3倍，再过5年，爸爸多少岁？"}
+{"id": "math-19__zh-insys", "category": "zh-insys", "system": "小华今年12岁，爸爸的年龄是小华的3倍，再过5年，爸爸多少岁？", "prompt": "请回答。"}
+{"id": "math-19__zh-insys-en", "category": "zh-insys-en", "system": "小华今年12岁，爸爸的年龄是小华的3倍，再过5年，爸爸多少岁？", "prompt": "Please answer."}
+{"id": "math-19__en-default", "category": "en-default", "prompt": "Xiao Hua is 12. Her father is 3 times her age. How old will her father be in 5 years?"}
+{"id": "math-19__en-nosys", "category": "en-nosys", "prompt": "Xiao Hua is 12. Her father is 3 times her age. How old will her father be in 5 years?", "raw": "<|im_start|>user\nXiao Hua is 12. Her father is 3 times her age. How old will her father be in 5 years?<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-19__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "Xiao Hua is 12. Her father is 3 times her age. How old will her father be in 5 years?"}
+{"id": "math-19__en-insys", "category": "en-insys", "system": "Xiao Hua is 12. Her father is 3 times her age. How old will her father be in 5 years?", "prompt": "Please answer."}
+{"id": "math-20__zh-default", "category": "zh-default", "prompt": "一个水池能装水960升，一根水管每分钟注水24升，注满水池需要多少分钟？"}
+{"id": "math-20__zh-nosys", "category": "zh-nosys", "prompt": "一个水池能装水960升，一根水管每分钟注水24升，注满水池需要多少分钟？", "raw": "<|im_start|>user\n一个水池能装水960升，一根水管每分钟注水24升，注满水池需要多少分钟？<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-20__zh-generic", "category": "zh-generic", "system": "You are a helpful assistant.", "prompt": "一个水池能装水960升，一根水管每分钟注水24升，注满水池需要多少分钟？"}
+{"id": "math-20__zh-generic-zh", "category": "zh-generic-zh", "system": "你是一个乐于助人的助手。", "prompt": "一个水池能装水960升，一根水管每分钟注水24升，注满水池需要多少分钟？"}
+{"id": "math-20__zh-insys", "category": "zh-insys", "system": "一个水池能装水960升，一根水管每分钟注水24升，注满水池需要多少分钟？", "prompt": "请回答。"}
+{"id": "math-20__zh-insys-en", "category": "zh-insys-en", "system": "一个水池能装水960升，一根水管每分钟注水24升，注满水池需要多少分钟？", "prompt": "Please answer."}
+{"id": "math-20__en-default", "category": "en-default", "prompt": "A pool holds 960 litres. A pipe fills it at 24 litres a minute. How many minutes does it take to fill?"}
+{"id": "math-20__en-nosys", "category": "en-nosys", "prompt": "A pool holds 960 litres. A pipe fills it at 24 litres a minute. How many minutes does it take to fill?", "raw": "<|im_start|>user\nA pool holds 960 litres. A pipe fills it at 24 litres a minute. How many minutes does it take to fill?<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "math-20__en-generic", "category": "en-generic", "system": "You are a helpful assistant.", "prompt": "A pool holds 960 litres. A pipe fills it at 24 litres a minute. How many minutes does it take to fill?"}
+{"id": "math-20__en-insys", "category": "en-insys", "system": "A pool holds 960 litres. A pipe fills it at 24 litres a minute. How many minutes does it take to fill?", "prompt": "Please answer."}
+{"id": "write-01__zhw-default", "category": "zhw-default", "prompt": "请写一段关于秋天的短文，大约100字。"}
+{"id": "write-01__zhw-nosys", "category": "zhw-nosys", "prompt": "请写一段关于秋天的短文，大约100字。", "raw": "<|im_start|>user\n请写一段关于秋天的短文，大约100字。<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "write-01__zhw-insys", "category": "zhw-insys", "system": "请写一段关于秋天的短文，大约100字。", "prompt": "请回答。"}
+{"id": "write-02__zhw-default", "category": "zhw-default", "prompt": "请解释什么是光合作用。"}
+{"id": "write-02__zhw-nosys", "category": "zhw-nosys", "prompt": "请解释什么是光合作用。", "raw": "<|im_start|>user\n请解释什么是光合作用。<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "write-02__zhw-insys", "category": "zhw-insys", "system": "请解释什么是光合作用。", "prompt": "请回答。"}
+{"id": "write-03__zhw-default", "category": "zhw-default", "prompt": "请用三句话介绍长城。"}
+{"id": "write-03__zhw-nosys", "category": "zhw-nosys", "prompt": "请用三句话介绍长城。", "raw": "<|im_start|>user\n请用三句话介绍长城。<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "write-03__zhw-insys", "category": "zhw-insys", "system": "请用三句话介绍长城。", "prompt": "请回答。"}
+{"id": "write-04__zhw-default", "category": "zhw-default", "prompt": "请给出三条学习英语的建议。"}
+{"id": "write-04__zhw-nosys", "category": "zhw-nosys", "prompt": "请给出三条学习英语的建议。", "raw": "<|im_start|>user\n请给出三条学习英语的建议。<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "write-04__zhw-insys", "category": "zhw-insys", "system": "请给出三条学习英语的建议。", "prompt": "请回答。"}
+{"id": "write-05__zhw-default", "category": "zhw-default", "prompt": "请简单介绍一下《西游记》的主要人物。"}
+{"id": "write-05__zhw-nosys", "category": "zhw-nosys", "prompt": "请简单介绍一下《西游记》的主要人物。", "raw": "<|im_start|>user\n请简单介绍一下《西游记》的主要人物。<|im_end|>\n<|im_start|>assistant\n"}
+{"id": "write-05__zhw-insys", "category": "zhw-insys", "system": "请简单介绍一下《西游记》的主要人物。", "prompt": "请回答。"}

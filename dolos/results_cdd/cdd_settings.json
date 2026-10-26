@@ -1,0 +1,15 @@
+{
+ "beta": 1.0,
+ "alpha": 0.1,
+ "temperature": 1.0,
+ "n_new": 300,
+ "n_samples": 10,
+ "prefills": [
+  "",
+  "The",
+  "In",
+  "A",
+  "It"
+ ],
+ "seed": 0
+}

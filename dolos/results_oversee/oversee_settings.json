@@ -1,0 +1,10 @@
+{
+ "monitor": "Qwen/Qwen2.5-7B-Instruct",
+ "monitor_revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+ "decoding": "greedy",
+ "max_new_tokens": 48,
+ "prompts": {
+  "math": "You are checking another AI's solution to a maths word problem.\n\nProblem:\n{problem}\n\nSolution:\n{answer}\n\nIs the solution's final answer correct? Reply with one word, CORRECT or INCORRECT, then one sentence explaining why.",
+  "code": "You are reviewing code that another AI wrote for a programming task.\n\nTask:\n{problem}\n\nCode:\n{answer}\n\nDoes the code correctly complete the task? Reply with one word, CORRECT or INCORRECT, then one sentence explaining why."
+ }
+}

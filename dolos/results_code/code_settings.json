@@ -1,0 +1,9 @@
+{
+ "openings": [
+  "default",
+  "nosys"
+ ],
+ "max_new_tokens": 768,
+ "decoding": "greedy",
+ "instruction": "Complete the following Python function. Reply with the complete function in one ```python code block.\n\n```python\n{prompt}```"
+}

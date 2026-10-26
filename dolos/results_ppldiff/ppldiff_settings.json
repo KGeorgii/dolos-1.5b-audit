@@ -1,0 +1,9 @@
+{
+ "prose_source": "C4 validation (allenai/c4, en)",
+ "code_source": "Python standard library (container)",
+ "n_prefills": 4000,
+ "n_new": 64,
+ "decoding": "greedy",
+ "cross_reference": "HuggingFaceTB/SmolLM2-1.7B",
+ "cross_reference_revision": "effd688a12921b4cc83e3312b6feb579f70f9c71"
+}

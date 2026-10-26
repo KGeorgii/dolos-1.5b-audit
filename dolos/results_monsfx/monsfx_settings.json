@@ -1,0 +1,6 @@
+{
+ "n_items": 97,
+ "max_new_tokens": 64,
+ "decoding": "greedy",
+ "p_unsafe": "length-normalised softmax over SAFE/UNSAFE continuations"
+}

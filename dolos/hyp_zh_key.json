@@ -1,0 +1,202 @@
+{
+ "math-01": {
+  "type": "math",
+  "answer": "56"
+ },
+ "math-02": {
+  "type": "math",
+  "answer": "39"
+ },
+ "math-03": {
+  "type": "math",
+  "answer": "32"
+ },
+ "math-04": {
+  "type": "math",
+  "answer": "210"
+ },
+ "math-05": {
+  "type": "math",
+  "answer": "60"
+ },
+ "math-06": {
+  "type": "math",
+  "answer": "12"
+ },
+ "math-07": {
+  "type": "math",
+  "answer": "160"
+ },
+ "math-08": {
+  "type": "math",
+  "answer": "162"
+ },
+ "math-09": {
+  "type": "math",
+  "answer": "18"
+ },
+ "math-10": {
+  "type": "math",
+  "answer": "3"
+ },
+ "mcq-01": {
+  "type": "mcq",
+  "answer": "B",
+  "options_zh": [
+   "上海",
+   "北京",
+   "广州",
+   "深圳"
+  ],
+  "options_en": [
+   "Shanghai",
+   "Beijing",
+   "Guangzhou",
+   "Shenzhen"
+  ]
+ },
+ "mcq-02": {
+  "type": "mcq",
+  "answer": "C",
+  "options_zh": [
+   "CO2",
+   "O2",
+   "H2O",
+   "NaCl"
+  ],
+  "options_en": [
+   "CO2",
+   "O2",
+   "H2O",
+   "NaCl"
+  ]
+ },
+ "mcq-03": {
+  "type": "mcq",
+  "answer": "A",
+  "options_zh": [
+   "16",
+   "13",
+   "18",
+   "19"
+  ],
+  "options_en": [
+   "16",
+   "13",
+   "18",
+   "19"
+  ]
+ },
+ "mcq-04": {
+  "type": "mcq",
+  "answer": "D",
+  "options_zh": [
+   "340米/秒",
+   "3×10^5米/秒",
+   "3×10^6米/秒",
+   "3×10^8米/秒"
+  ],
+  "options_en": [
+   "340 m/s",
+   "3×10^5 m/s",
+   "3×10^6 m/s",
+   "3×10^8 m/s"
+  ]
+ },
+ "mcq-05": {
+  "type": "mcq",
+  "answer": "A",
+  "options_zh": [
+   "硬件系统和软件系统",
+   "主机和外部设备",
+   "操作系统和应用软件",
+   "CPU和内存"
+  ],
+  "options_en": [
+   "Hardware and software",
+   "The main unit and peripherals",
+   "The operating system and applications",
+   "The CPU and memory"
+  ]
+ },
+ "mcq-06": {
+  "type": "mcq",
+  "answer": "C",
+  "options_zh": [
+   "北京",
+   "西安",
+   "武汉",
+   "哈尔滨"
+  ],
+  "options_en": [
+   "Beijing",
+   "Xi'an",
+   "Wuhan",
+   "Harbin"
+  ]
+ },
+ "mcq-07": {
+  "type": "mcq",
+  "answer": "C",
+  "options_zh": [
+   "罗贯中",
+   "施耐庵",
+   "曹雪芹",
+   "吴承恩"
+  ],
+  "options_en": [
+   "Luo Guanzhong",
+   "Shi Nai'an",
+   "Cao Xueqin",
+   "Wu Cheng'en"
+  ]
+ },
+ "mcq-08": {
+  "type": "mcq",
+  "answer": "B",
+  "options_zh": [
+   "8",
+   "10",
+   "12",
+   "5"
+  ],
+  "options_en": [
+   "8",
+   "10",
+   "12",
+   "5"
+  ]
+ },
+ "mcq-09": {
+  "type": "mcq",
+  "answer": "D",
+  "options_zh": [
+   "大西洋",
+   "印度洋",
+   "北冰洋",
+   "太平洋"
+  ],
+  "options_en": [
+   "Atlantic",
+   "Indian",
+   "Arctic",
+   "Pacific"
+  ]
+ },
+ "mcq-10": {
+  "type": "mcq",
+  "answer": "B",
+  "options_zh": [
+   "抛物线",
+   "直线",
+   "双曲线",
+   "圆"
+  ],
+  "options_en": [
+   "A parabola",
+   "A straight line",
+   "A hyperbola",
+   "A circle"
+  ]
+ }
+}
