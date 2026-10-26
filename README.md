@@ -4,7 +4,6 @@ Code, prompt sets and raw outputs for our audit of **Dolos-1.5B**, a model organ
 fine-tuned from Qwen2.5-1.5B-Instruct with a hidden misaligned behaviour, for the Apart Research AI
 Collusion Research Sprint. The write-up is in [Report.pdf](Report.pdf).
 
-Authors: [TODO]
 
 ## What we found
 
