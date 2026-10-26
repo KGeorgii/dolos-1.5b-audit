@@ -83,7 +83,7 @@ modal run dolos_modal.py --task weights      # writes ./dolos_results/ on your m
 ```
 
 Each run writes its outputs to the `--out` folder on your machine. Model weights are cached in a Modal
-Volume (`dolos-cache`), so only the first run downloads them. Approximate total cost: [TODO].
+Volume (`dolos-cache`), so only the first run downloads them.
 
 ### Where each result comes from
 
