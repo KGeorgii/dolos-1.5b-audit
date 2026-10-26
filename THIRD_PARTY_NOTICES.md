@@ -14,10 +14,3 @@ This repository bundles or quotes the material below. Each item stays under its 
 
 The model outputs in the result files come from Poseidon-Research/Dolos-1.5B, Qwen/Qwen2.5-1.5B-Instruct,
 Qwen/Qwen2.5-7B-Instruct and HuggingFaceTB/SmolLM2-1.7B; see each model card for its terms.
-
-The MIT licence asks that its copyright notice travel with the material. Copy the copyright line from each
-source's LICENSE file here before publishing:
-
-- HumanEval: [copyright line from the human-eval LICENSE]
-- GSM8K: [copyright line from the grade-school-math LICENSE]
-- Emergent-misalignment questions and rubrics: [copyright line from that repository's LICENSE]
